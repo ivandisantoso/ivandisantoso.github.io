@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lexend+Zetta|Ubuntu&display=swap');
+
+body{
+    background-color: #F3EFE0;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Lexend Zetta', sans-serif;
+}
+
+h2{
+    font-family: 'Ubuntu', sans-serif; 
+}
